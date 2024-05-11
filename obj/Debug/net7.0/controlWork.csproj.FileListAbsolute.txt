@@ -1,0 +1,14 @@
+C:\Users\КиберСамурай\Desktop\controlWork\bin\Debug\net7.0\controlWork.exe
+C:\Users\КиберСамурай\Desktop\controlWork\bin\Debug\net7.0\controlWork.deps.json
+C:\Users\КиберСамурай\Desktop\controlWork\bin\Debug\net7.0\controlWork.runtimeconfig.json
+C:\Users\КиберСамурай\Desktop\controlWork\bin\Debug\net7.0\controlWork.dll
+C:\Users\КиберСамурай\Desktop\controlWork\bin\Debug\net7.0\controlWork.pdb
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.AssemblyInfoInputs.cache
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.AssemblyInfo.cs
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.csproj.CoreCompileInputs.cache
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.dll
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\refint\controlWork.dll
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.pdb
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\controlWork.genruntimeconfig.cache
+C:\Users\КиберСамурай\Desktop\controlWork\obj\Debug\net7.0\ref\controlWork.dll
